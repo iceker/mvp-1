@@ -1,7 +1,7 @@
 # MVP
 Microsoft MVP Program GitHub Repository
 
-<p align="center">
+<p >
   <img alt="VS Code in action" src="images/test.png">
 </p>
 
