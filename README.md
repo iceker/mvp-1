@@ -5,18 +5,19 @@ Microsoft MVP Program GitHub Repository
   <img alt="VS Code in action" src="images/platform_sprite.png">
 </p>
 
-<table border="0">
-  <tr>
-    <th>Month</th>
-    <th>Savings</th>
+<table style="border:0px">
+  <tr style="border:0px">
+    <td style="border:0px"><img alt="VS Code in action" src="images/ios.png"></td>
+    <td style="border:0px"><img alt="VS Code in action" src="images/android.png"></td>
+    <td style="border:0px"><img alt="VS Code in action" src="images/windows.png"></td>
   </tr>
-  <tr>
-    <td>January</td>
-    <td>$100</td>
+  <tr style="border:0px;background-color:#ffffff">
+    <td style="border:0px">January</td>
+    <td style="border:0px">$100</td>
   </tr>
-  <tr>
-    <td>February</td>
-    <td>$80</td>
+  <tr style="border:0px;background-color:#ffffff">
+    <td style="border:0px;background-color:#ffffff">February</td>
+    <td style="border:0px;background-color:#ffffff">$80</td>
   </tr>
 </table>
 
