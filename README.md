@@ -5,6 +5,12 @@ Microsoft MVP Program GitHub Repository
   <img alt="VS Code in action" src="images/platform_sprite.png">
 </p>
 
+<table>
+  <tr>
+    <td>aaaa</td>
+  </tr>
+</table>
+
 ## Mobile App Build Status
 
 |Platform|dev|master|
