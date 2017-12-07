@@ -5,9 +5,10 @@ Microsoft MVP Program GitHub Repository
   <img alt="VS Code in action" src="images/platform_sprite.png">
 </p>
 
-<table>
+<table border="0px">
   <tr>
-    <td>aaaa</td>
+    <td>aaaaasdf</td>
+    <td>asdfasdf</td>
   </tr>
 </table>
 
