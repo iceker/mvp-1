@@ -2,24 +2,9 @@
 Microsoft MVP Program GitHub Repository
 
 <p align="center">
-  <img alt="VS Code in action" src="images/platform_sprite.png">
+  <img alt="VS Code in action" src="images/test.png">
 </p>
 
-<table style="border:0px">
-  <tr style="border:0px">
-    <td style="border:0px"><img alt="VS Code in action" src="images/ios.png"></td>
-    <td style="border:0px"><img alt="VS Code in action" src="images/android.png"></td>
-    <td style="border:0px"><img alt="VS Code in action" src="images/windows.png"></td>
-  </tr>
-  <tr style="border:0px;background-color:#ffffff">
-    <td style="border:0px;background-color:#ffffff">January</td>
-    <td style="border:0px;background-color:#ffffff">$100</td>
-  </tr>
-  <tr style="border:0px;background-color:#ffffff">
-    <td style="border:0px;background-color:#ffffff">February</td>
-    <td style="border:0px;background-color:#ffffff">$80</td>
-  </tr>
-</table>
 
 ## Mobile App Build Status
 
