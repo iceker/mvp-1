@@ -12,8 +12,8 @@ Microsoft MVP Program GitHub Repository
     <td style="border:0px"><img alt="VS Code in action" src="images/windows.png"></td>
   </tr>
   <tr style="border:0px;background-color:#ffffff">
-    <td style="border:0px">January</td>
-    <td style="border:0px">$100</td>
+    <td style="border:0px;background-color:#ffffff">January</td>
+    <td style="border:0px;background-color:#ffffff">$100</td>
   </tr>
   <tr style="border:0px;background-color:#ffffff">
     <td style="border:0px;background-color:#ffffff">February</td>
