@@ -5,11 +5,19 @@ Microsoft MVP Program GitHub Repository
   <img alt="VS Code in action" src="images/platform_sprite.png">
 </p>
 
-<table border="0px">
+<table border="0">
   <tr>
-    <td>aaaaasdf</td>
-    <td>asdfasdf</td>
-  </tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
 </table>
 
 ## Mobile App Build Status
