@@ -1,7 +1,7 @@
 # Microsoft MVP Award Program
 
 <p >
-  &ensp;&ensp;&ensp;&ensp; <img alt="VS Code in action" src="images/test.png">
+  &ensp;&ensp;&ensp;&ensp; <img alt="VS Code in action" src="images/test1.png">
 </p>
 
 &ensp;&ensp;&ensp;&ensp;&ensp;IOS&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Android&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Windows
