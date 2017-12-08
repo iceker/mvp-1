@@ -1,5 +1,4 @@
-# MVP
-Microsoft MVP Program GitHub Repository
+# Microsoft MVP Award Program
 
 <p >
   &ensp;&ensp;&ensp;&ensp; <img alt="VS Code in action" src="images/test.png">
@@ -10,6 +9,7 @@ Microsoft MVP Program GitHub Repository
 <a target="_blank" class="get-app" href="https://itunes.apple.com/us/app/groupme-for-iphone/id392796698?mt=8">iTunes App Store</a>&ensp;&ensp;&ensp;
 <a target="_blank" class="get-app" href="https://market.android.com/details?id=com.groupme.android">Play App Store</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <a target="_blank" class="get-app" href="https://www.microsoft.com/store/apps/groupme/9nblggh5z4f2">Windows Store</a>
+
 
 ## Mobile App Build Status
 
