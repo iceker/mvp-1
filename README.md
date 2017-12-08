@@ -11,6 +11,9 @@
 <a target="_blank" class="get-app" href="https://www.microsoft.com/store/apps/groupme/9nblggh5z4f2">Windows Store</a>
 
 
+<br/>
+<br/>
+
 ## Mobile App Build Status
 
 |Platform|dev|master|
