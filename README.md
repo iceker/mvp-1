@@ -8,7 +8,7 @@ Microsoft MVP Program GitHub Repository
 &ensp;&ensp;&ensp;&ensp;&ensp;IOS&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Android&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Windows
 
 <a target="_blank" class="get-app" href="https://itunes.apple.com/us/app/groupme-for-iphone/id392796698?mt=8">iTunes App Store</a>&ensp;&ensp;
-<a target="_blank" class="get-app" href="https://itunes.apple.com/us/app/groupme-for-iphone/id392796698?mt=8">iTunes App Store</a>&ensp;&ensp;&ensp;&ensp;
+<a target="_blank" class="get-app" href="https://itunes.apple.com/us/app/groupme-for-iphone/id392796698?mt=8">iTunes App Store</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <a target="_blank" class="get-app" href="https://itunes.apple.com/us/app/groupme-for-iphone/id392796698?mt=8">iTunes App Store</a>
 
 ## Mobile App Build Status
